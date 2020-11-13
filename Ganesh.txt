@@ -1,0 +1,10 @@
+Attached the code zip for the requirement shared by Client. The same can be downloaded as an existing Maven Project. To execute the file following arguments has to be supplied:
+
+•	C:\\nordea\\cgh  the path from where to be read
+•	small.in  the file to be read
+•	csv  output type of file (XML or CSV)
+•	C:\nordea\cgh\small.csv  output file name
+
+The same will translate as follows:
+
+java App C:\\nordea\\cgh small.in csv C:\nordea\cgh\small.csv
